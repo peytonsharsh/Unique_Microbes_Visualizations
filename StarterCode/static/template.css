@@ -1,0 +1,21 @@
+#submit {
+    margin-top: 15px;
+}
+
+label {
+    font-size: 13px;
+}
+
+table {
+    text-align: left;
+    margin-left: 5px;
+    font-size: 12px;
+    border-collapse: separate;
+    border-spacing: 8px;
+    overflow-wrap: normal;
+}
+
+#sample-metadata {
+    padding: 5px
+}
+    
